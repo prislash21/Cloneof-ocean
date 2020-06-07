@@ -37,7 +37,7 @@
   top: 12vh;
   margin-left: 40px;
   position: relative;
-  background-color: #0373fc;
+  background-color: yellow;
   color: White;
   justify-content: center;
   text-align: left;
@@ -47,7 +47,7 @@
 }
 
 div.a {
-  font-size: 64px;
+  font-size: 50px;
   color: white;
 
 }
